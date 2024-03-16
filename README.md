@@ -1,6 +1,8 @@
 Tải mongoDB compass kết nối vào URi: mongodb+srv://vuong:vuong2002@cluster0.v6ua8ov.mongodb.net/
 để theo dõi bảng testSession khi có khách hàng truy cập
 
+Add thêm bảng recommedation (có để script sql) vào CSDL mydb linh tạo trước đó (mydb)
+
 Cài đặt
 Server nodejs: 
 npm -i
